@@ -1,4 +1,4 @@
-# codvid-app-ZhenfeiYu
+# codvid-app
 ## Step 1: Set up environment
 following instructions on https://reactnative.dev/docs/environment-setup
 * Development OS: macOS  
