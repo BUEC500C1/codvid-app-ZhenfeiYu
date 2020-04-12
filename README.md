@@ -45,4 +45,6 @@ export default HelloWorldApp;
 cd HelloApp
 npm start
 ```
-You can choose to run on iOS simulator or scan the QR code to run on phone(need to previously download Expo Client app on phone)
+You can choose to run on iOS simulator or scan the QR code to run on phone(need to previously download Expo Client app on phone)  
+<div align=center><img src="https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/blob/master/pictures/hello_simulator.png"></div>
+<div align=center><img src="https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/blob/master/pictures/server.png"></div>
