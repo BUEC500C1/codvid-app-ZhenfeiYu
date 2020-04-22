@@ -1,5 +1,5 @@
 import React from 'react';
-import MapView from 'react-native-maps';
+import MapView from 'react-native-maps/Users/yzf/Desktop/EC500/7/codvid-app-ZhenfeiYu/map/App.js';
 import { StyleSheet, Text, View, Dimensions } from 'react-native';
 
 export default class App extends React.Component {
