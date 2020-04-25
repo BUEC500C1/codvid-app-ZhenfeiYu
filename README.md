@@ -6,5 +6,5 @@ https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/tree/master/HelloApp
 https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/tree/master/map
 * Step 4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  
 https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/tree/master/CodvidAPI
-* Step 5: Overlay the data on the maps.
+* Step 5: Overlay the data on the maps.  
 https://github.com/BUEC500C1/codvid-app-ZhenfeiYu/tree/master/datawithmap
